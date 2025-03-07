@@ -27,7 +27,7 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?faisalrlakhany=faisalrlakhany&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faisalrlakhany&show_icons=true&theme=dark" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faisalrlakhany&theme=dark" />
 </p>
 
