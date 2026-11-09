@@ -1,0 +1,56 @@
+<svg width="1000" height="180" viewBox="0 0 1000 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Muhammad Faisal Lakhany — Full Stack Developer banner">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1b2a"/>
+      <stop offset="55%" stop-color="#12233d"/>
+      <stop offset="100%" stop-color="#132b45"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+    <style>
+      .name { font: bold 40px 'Segoe UI', Arial, sans-serif; fill: #f1f5f9; letter-spacing: 1px; }
+      .title { font: 600 19px 'Segoe UI', Arial, sans-serif; fill: #22d3ee; letter-spacing: 3px; }
+      .sub { font: 16px 'Segoe UI', Arial, sans-serif; fill: #94a3b8; }
+      .chip { font: 600 12px 'Segoe UI', Arial, sans-serif; fill: #7dd3fc; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="180" rx="12" fill="url(#bg)"/>
+  <rect width="6" height="180" rx="3" fill="url(#accent)"/>
+
+  <!-- Subtle grid dots -->
+  <g fill="#1e3a5f">
+    <circle cx="880" cy="30" r="2"/><circle cx="900" cy="45" r="2"/><circle cx="920" cy="60" r="2"/>
+    <circle cx="860" cy="55" r="2"/><circle cx="900" cy="80" r="2"/><circle cx="940" cy="40" r="2"/>
+    <circle cx="920" cy="105" r="2"/><circle cx="880" cy="120" r="2"/><circle cx="950" cy="90" r="2"/>
+  </g>
+  <!-- Decorative brackets -->
+  <text x="845" y="115" font-family="monospace" font-size="90" fill="#1b3350" opacity="0.9">{ }</text>
+
+  <!-- Text -->
+  <text x="40" y="62" class="name">Muhammad Faisal Lakhany</text>
+  <text x="40" y="94" class="title">FULL STACK DEVELOPER</text>
+  <text x="40" y="122" class="sub">Building Modern, Scalable &amp; User-Friendly Web Applications.</text>
+
+  <!-- Tech chips -->
+  <g>
+    <rect x="40" y="138" width="88" height="26" rx="13" fill="#1b3350" stroke="#22d3ee" stroke-opacity="0.35"/>
+    <text x="84" y="155" text-anchor="middle" class="chip">React.js</text>
+
+    <rect x="136" y="138" width="80" height="26" rx="13" fill="#1b3350" stroke="#22d3ee" stroke-opacity="0.35"/>
+    <text x="176" y="155" text-anchor="middle" class="chip">Next.js</text>
+
+    <rect x="224" y="138" width="84" height="26" rx="13" fill="#1b3350" stroke="#22d3ee" stroke-opacity="0.35"/>
+    <text x="266" y="155" text-anchor="middle" class="chip">Node.js</text>
+
+    <rect x="316" y="138" width="70" height="26" rx="13" fill="#1b3350" stroke="#22d3ee" stroke-opacity="0.35"/>
+    <text x="351" y="155" text-anchor="middle" class="chip">TS</text>
+
+    <!-- Location chip far left-aligned after tech -->
+    <rect x="394" y="138" width="150" height="26" rx="13" fill="#1b3350" stroke="#818cf8" stroke-opacity="0.35"/>
+    <text x="469" y="155" text-anchor="middle" class="chip" fill="#a5b4fc">Karachi, Pakistan</text>
+  </g>
+</svg>

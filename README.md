@@ -1,125 +1,229 @@
-<!-- GitHub Profile Banner -->
-<p align="center">
-  <img src="images/banner.svg" alt="GitHub Banner" width="100%">
+<!-- ============================================================
+     Muhammad Faisal Lakhany — Full Stack Developer
+     GitHub Profile README
+     ============================================================ -->
+
+<div align="center">
+  <img src="images/hero-banner.svg" alt="Muhammad Faisal Lakhany — Full Stack Developer" width="100%" />
+</div>
+
+---
+
+## 1 · Hero / Introduction
+
+<div align="center">
+
+# Muhammad Faisal Lakhany
+
+### Full Stack Developer
+
+**Building Modern, Scalable & User-Friendly Web Applications.**
+
+[GitHub](https://github.com/faisalrlakhany) · Karachi, Pakistan · React.js · Next.js · Node.js
+
+</div>
+
+---
+
+## 2 · About Me
+
+Hi, I'm **Muhammad Faisal Lakhany** — a passionate **Full Stack Developer** focused on building modern, responsive, scalable, and user-friendly web applications.
+
+I enjoy transforming ideas into functional digital products by combining modern frontend technologies with backend development, database management, and API integrations.
+
+I focus on writing clean code, creating attractive interfaces, solving problems, and continuously improving my development skills.
+
+**My interests include:**
+
+- Full Stack Web Development
+- Modern Frontend Development
+- Backend API Development
+- Responsive UI/UX Design
+- Database Management
+- Web Application Development
+- Third-Party API Integration
+
+---
+
+## 3 · Professional Highlights
+
+|  | Highlight |
+|---|---|
+| **Full Stack Development** | Built end-to-end web applications — React frontends, Node.js APIs, and Firebase / MongoDB / MySQL data layers |
+| **Backend & APIs** | Developed REST APIs with Node.js & Express and integrated third-party services (weather, Google Sheets, email) |
+| **Authentication & Security** | Implemented authentication and authorization flows using Firebase and MongoDB |
+| **Responsive UI/UX** | Delivered mobile-first, cross-browser compatible interfaces with Tailwind CSS and Bootstrap |
+
+---
+
+## 4 · Technical Skills
+
+**Frontend** — HTML5 · CSS3 · JavaScript · TypeScript · React.js · Next.js · Bootstrap · Tailwind CSS
+
+**Backend** — Node.js · Express.js · REST API Development · API Integration & Handling
+
+**Database** — Firebase · MySQL
+
+**Tools** — Git · GitHub · VS Code · Postman · npm
+
+**Additional Skills** — Responsive Web Design · Frontend & Backend Development · Authentication & Authorization · Database Integration · Website Optimization · Component-Based Architecture · Cross-Browser Compatibility · Debugging & Troubleshooting · Third-Party API Integration
+
+---
+
+## 5 · Technology Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend stack" />
 </p>
 
-<h1 align="center">Hi there, I'm Muhammad Faisal Lakhany 👋</h1>
+### Backend
 
-<p align="center">
-  <strong>Front-End & React Developer</strong> 💻  
-  📍 Karachi, Pakistan | 📞 +92 322 1039098 | ✉️ faisallakhany707@gmail.com  
-  🔗 <a href="https://github.com/faisalrlakhany">GitHub Profile</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql" alt="Backend and database stack" />
 </p>
 
-<p align="center">
-  🚀 Passionate about building responsive and user-friendly web applications  
-  💡 Skilled in modern JavaScript technologies including React.js, Firebase, and TypeScript  
-  📚 Always learning and committed to writing clean, maintainable code  
-</p>
+### Tools & Platforms
 
----
-
----
-
-## 👤 Professional Summary
-Passionate Front-End and React Developer with hands-on experience in building responsive and user-friendly web applications. Skilled in modern JavaScript technologies including React.js, Firebase, TypeScript, Tailwind CSS, and Bootstrap. Experienced in developing real-world projects and committed to writing clean, maintainable code while continuously learning new technologies.
-
----
-
-## 🛠 Technical Skills ⚙️
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, jQuery
-- **Styling:** Tailwind CSS, Bootstrap, Material UI (MUI)
-- **Backend:** Basic Node.js, REST API Integration
-- **Database & Services:** Firebase, Basic React Native
-- **Tools:** Git & GitHub, Responsive Web Design
-- **Other:** Problem Solving, Team Collaboration
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel" alt="Tools and platforms" />
 </p>
 
 ---
 
-## 🚀 Projects
+## 6 · Featured Projects
 
-### 📊 Attendance Management System
-- **Technologies:** HTML, CSS, JavaScript, Firebase
-- Developed a web-based attendance management system with real-time data storage and management
-- Implemented Firebase for reliable backend services
+> Links below point to real repositories and live deployments only. Projects without a link are guided projects under development / being published.
 
-### 🏋️ Gym Website
-- **Technologies:** HTML, CSS, JavaScript
-- Designed and developed a responsive gym website with a modern user interface
-- Focused on user experience and mobile responsiveness
+### 1 · Attendance Management Portal
 
-### 🍎 Fruit Website
-- **Technologies:** HTML, CSS, JavaScript
-- Built a responsive fruit store website with attractive layouts and interactive sections
+Multi-institute attendance management platform with separate Admin, Teacher, and Student panels, attendance tracking, and monthly summaries.
 
----
+`HTML` `CSS` `JavaScript` `Firebase`
 
-## 💼 Professional Experience
+### 2 · Fruit Website — FreshHarvest
 
-### Front-End Developer – Travel Website Project
-- Developed responsive user interfaces using modern front-end technologies
-- Collaborated with the development team to deliver a smooth user experience
-- Optimized performance and ensured cross-browser compatibility
+Fruit and grocery website with product-focused layouts.
 
-### Front-End Developer – eSIM Website Project
-- Designed and implemented responsive web pages
-- Optimized UI components for performance and cross-browser compatibility
-- Maintained high code quality and best practices
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/faisalrlakhany/Fruit-Website)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-22d3ee?style=flat-square&logo=vercel)](https://freshharvest-tau.vercel.app)
 
----
+### 3 · Food Website — Burger Restaurant
 
-## 🎓 Education
+Restaurant and food website with attractive food presentation and menu sections.
 
-### Bachelor of Science in Computer Science (BSCS) – In Progress
-**Dawood University of Engineering & Technology**
-- Currently: 2nd Year
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/faisalrlakhany/BurgerWebsite)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-22d3ee?style=flat-square&logo=vercel)](https://burger-website-rust.vercel.app)
 
-### Intermediate (Computer Science) – 2024
-**Islamia Science College, Karachi**
-- Grade: B
+### 4 · Calculator Application
 
-### Matriculation (Computer Science) – 2022
-**Mama Baby Care School**
-- Grade: A+
+Interactive calculator application with calculation functionality and history.
 
-### Dars-e-Nizami (In Progress)
-- Completed: 4 years of a 6-year Islamic Education program
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/faisalrlakhany/calculator-app)
 
----
+`React Native` `TypeScript` `Expo`
 
-## 📜 Certifications
-- **Web & App Development** – Saylani Mass IT Training (SMIT)
+### 5 · Gym Website
 
----
+Modern fitness and gym website with responsive design and professional sections.
 
-## 🌐 Languages
-- **Urdu** - Native
-- **English** - Intermediate
+`HTML` `CSS` `JavaScript` `Responsive Design`
 
----
+### 6 · Digital Agency Website
 
-## 🎯 Career Objective
-Seeking a Front-End Developer or React Developer position where I can apply my technical skills, contribute to innovative projects, and continue growing as a software developer while delivering high-quality web applications.
+Professional agency website presenting services, business solutions, and company information.
+
+`HTML` `CSS` `JavaScript` `Responsive Design`
+
+### 7 · Car Wash Website
+
+Car wash service website showcasing available services and business information.
+
+`HTML` `CSS` `JavaScript` `Responsive Design`
+
+### 8 · Salon Website
+
+Modern salon website with beauty services and elegant presentation.
+
+`HTML` `CSS` `JavaScript` `Responsive Design`
+
+### 9 · Coffee Website
+
+Coffee shop website with stylish design and product presentation.
+
+`HTML` `CSS` `JavaScript` `Responsive Design`
 
 ---
 
-## 🔗 Connect With Me
-📞 **Phone:** +92 322 1039098  
-✉️ **Email:** faisallakhany707@gmail.com  
-💼 **GitHub:** [github.com/faisalrlakhany](https://github.com/faisalrlakhany)  
-📍 **Location:** Karachi, Pakistan
+### More From My Work
 
-Feel free to reach out for **collaborations, freelance projects, or just to say hi!** 😊  
+| Project | Tech | Links |
+|---------|------|-------|
+| **Blogging App** | React · Firebase | [Repo](https://github.com/faisalrlakhany/Blogging-App) · [Live](https://blogging-app-rouge-eight.vercel.app) |
+| **Todo App — MongoDB** | Node.js · Express · MongoDB | [Repo](https://github.com/faisalrlakhany/TodoApp-MongoDB) |
+| **Auth Using MongoDB** | Node.js · MongoDB · JWT | [Repo](https://github.com/faisalrlakhany/Auth-using-MongoDb) |
+| **Weather App (React)** | React · Weather API | [Repo](https://github.com/faisalrlakhany/WeatherApp) · [Live](https://weather-app-react-umber-xi.vercel.app) |
+| **Quote Generator** | JavaScript · API | [Repo](https://github.com/faisalrlakhany/QuoteGenerator) · [Live](https://quote-generator-bay-iota.vercel.app) |
+| **Quiz App** | React · JavaScript | [Repo](https://github.com/faisalrlakhany/QuizApp) · [Live](https://quiz-app-react-theta-ten.vercel.app) |
+
+---
+
+## 7 · What I'm Currently Working On
+
+- Expanding my **Next.js** and **TypeScript** skill set with production-level projects
+- Building and publishing the **Attendance Management Portal** (Admin / Teacher / Student panels)
+- Strengthening backend fundamentals: **Express.js REST APIs**, **MySQL** schema design, and **authentication flows**
+- Contributing to and maintaining my open repositories with cleaner commits and documentation
+
+---
+
+## 8 · GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faisalrlakhany&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+</div>
+
+---
+
+## 9 · Top Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalrlakhany&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</div>
+
+### GitHub Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=faisalrlakhany&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 10 · Contribution Activity Graph
+
+<div align="center">
+  <img src="https://activity-graph.vercel.app/graph?username=faisalrlakhany&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" width="100%" />
+</div>
+
+---
+
+## 11 · Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-faisalrlakhany-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faisalrlakhany)
+
+</div>
+
+---
+
+## Footer
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=faisalrlakhany&style=flat-square&color=blue" alt="Profile Views" />
+
+<p><em>Open to Full Stack Developer roles, freelance work, and collaborations.</em></p>
+
+</div>
